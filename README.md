@@ -6,7 +6,7 @@
   I love developing, the cloud and Computer Networking.
 </p>
 <p align='center'>
-  Always open to discussions and questions, Let Connect
+  student of the World, Let Connect
 </p>
 
 
