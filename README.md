@@ -42,7 +42,7 @@
 </div>
 
 
-- 🔭 I’m currently working on a electron desktop app
+- 🔭
 - 🌱 learning Golang, JavaScript, Cloud and DeveOps 
 - 💬 Ask me about anything related to these technologies and I have something to say
 
