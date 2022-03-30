@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  I love developing, the cloud and Computer Networking.
+ 
 </p>
 <p align='center'>
   Citizen of the World, Let Connect
