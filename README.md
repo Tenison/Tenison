@@ -1,5 +1,5 @@
 <h1 align='left'>
-   Osei-Owusu 💻 💬 🔭 ⚡
+   Osei-Owusu  &nbsp; 💻 💬 🔭 ⚡
 </h1>
 
 <p align='left'>
