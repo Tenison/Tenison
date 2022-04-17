@@ -3,7 +3,7 @@
 </h1>
 
 <p align='left'>
-  Need to update my photo. what do you think 😄
+  GoPath this week. what do you think 😄
 </p>
 <p align='left'>
   #CitizenOfTheWorld
