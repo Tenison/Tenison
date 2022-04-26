@@ -3,7 +3,7 @@
 </h1>
 
 <p align='left'>
-  GoPath this week. what do you think 😄
+  GoPath this week. Hit me up let talk 😄
 </p>
 <p align='left'>
   #CitizenOfTheWorld
